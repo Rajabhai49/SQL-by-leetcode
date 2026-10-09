@@ -8,5 +8,6 @@
 | [0595-big-countries](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1484-group-sold-products-by-the-date](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/1484-group-sold-products-by-the-date) |
+| [1693-daily-leads-and-partners](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
