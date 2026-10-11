@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Rajabhai49/SQL-by-leetcode/tree/master/0595-big-countries) |
